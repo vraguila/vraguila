@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about coding, big data and predictive analytics
 - 🌱 I’m currently learning business intelligence and data analytics
 - 💞️ I’m looking to collaborate on big data projects
-- 📫 How to reach me at https://www.linkedin.com/in/vraguila/
+- 📫 Reach me at https://www.linkedin.com/in/vraguila/
 - 😄 Pronouns: I don't use them often nor salutations
 - ⚡ Fun fact: I enjoy getting outdoors and being away from tech as often as I can
 
